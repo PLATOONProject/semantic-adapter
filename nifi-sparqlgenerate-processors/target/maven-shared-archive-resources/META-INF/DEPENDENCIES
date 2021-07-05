@@ -1,0 +1,191 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-sparqlgenerate-processors
+
+
+From: 'an unknown organization'
+  - JCommander (http://beust.com/jcommander) com.beust:jcommander:jar:1.32
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - dexx (https://github.com/andrewoma/dexx) com.github.andrewoma.dexx:collection:jar:0.7
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - GeoGson Core (http://github.com/filosganga/geogson/geogson-core) com.github.filosganga:geogson-core:jar:1.4.2
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSONLD Java :: Core (http://github.com/jsonld-java/jsonld-java/jsonld-java/) com.github.jsonld-java:jsonld-java:bundle:0.12.5
+    License: Revised BSD License  (https://raw.github.com/jsonld-java/jsonld-java/master/LICENCE)
+  - jsurfer-core (https://github.com/jsurfer/JsonSurfer/jsurfer-core) com.github.jsurfer:jsurfer-core:jar:1.5.1
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - jsurfer-gson (https://github.com/jsurfer/JsonSurfer/jsurfer-gson) com.github.jsurfer:jsurfer-gson:jar:1.5.1
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:3.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.2
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - error-prone annotations (http://nexus.sonatype.org/oss-repository-hosting.html/error_prone_parent/error_prone_annotations) com.google.errorprone:error_prone_annotations:jar:2.3.2
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava InternalFutureFailureAccess and InternalFutures (https://github.com/google/guava/failureaccess) com.google.guava:failureaccess:bundle:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:28.1-jre
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava ListenableFuture only (https://github.com/google/guava/listenablefuture) com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - J2ObjC Annotations (https://github.com/google/j2objc/) com.google.j2objc:j2objc-annotations:jar:1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - project ':json-path' (https://github.com/jayway/JsonPath) com.jayway.jsonpath:json-path:jar:2.4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - HtmlCleaner (http://htmlcleaner.sourceforge.net/) net.sourceforge.htmlcleaner:htmlcleaner:bundle:2.24
+    License: BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - Apache Thrift (http://thrift.apache.org) org.apache.thrift:libthrift:jar:0.12.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Checker Qual (https://checkerframework.org) org.checkerframework:checker-qual:jar:2.8.1
+    License: The MIT License  (http://opensource.org/licenses/MIT)
+  - Java-WebSocket (https://github.com/TooTallNate/Java-WebSocket) org.java-websocket:Java-WebSocket:jar:1.5.0
+    License: MIT License  (https://github.com/TooTallNate/Java-WebSocket/blob/master/LICENSE)
+
+From: 'ANTLR' (http://www.antlr.org)
+  - ANTLR 4 Runtime (http://www.antlr.org/antlr4-runtime) org.antlr:antlr4-runtime:jar:4.7.2
+    License: The BSD License  (http://www.antlr.org/license.html)
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.13.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.17
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Atlassian' (https://www.atlassian.com/)
+  - commonmark-java core (https://github.com/atlassian/commonmark-java/commonmark) com.atlassian.commonmark:commonmark:jar:0.14.0
+    License: BSD 2-Clause License  (http://opensource.org/licenses/BSD-2-Clause)
+
+From: 'Chemouni Uriel' (http://www.minidev.net/)
+  - ASM based accessors helper used by json-smart (http://www.minidev.net/) net.minidev:accessors-smart:bundle:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSON Small and Fast Parser (http://www.minidev.net/) net.minidev:json-smart:bundle:2.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Eclipse Paho' (http://www.eclipse.org/paho)
+  - org.eclipse.paho.client.mqttv3 (http://www.eclipse.org/paho/org.eclipse.paho.client.mqttv3) org.eclipse.paho:org.eclipse.paho.client.mqttv3:eclipse-plugin:1.2.2
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.10.8
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson dataformat: CBOR (http://github.com/FasterXML/jackson-dataformats-binary) com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:bundle:2.9.8
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Google' (http://www.google.com/)
+  - Protocol Buffers [Core] (https://developers.google.com/protocol-buffers/protobuf-java/) com.google.protobuf:protobuf-java:bundle:3.6.1
+    License: 3-Clause BSD License  (https://opensource.org/licenses/BSD-3-Clause)
+
+From: 'INSIGHT Centre for Data Analytics' (http://www.insight-centre.org)
+  - HDT API (http://www.rdfhdt.org/hdt-api/) org.rdfhdt:hdt-api:jar:1.1
+    License: GNU Library or Lesser General Public License (LGPL)  (http://www.gnu.org/licenses/lgpl.html)
+  - HDT Java Core (http://www.rdfhdt.org/hdt-java-core/) org.rdfhdt:hdt-java-core:jar:1.1
+    License: GNU Library or Lesser General Public License (LGPL)  (http://www.gnu.org/licenses/lgpl.html)
+
+From: 'JDOM' (http://www.jdom.org)
+  - JDOM (http://www.jdom.org) org.jdom:jdom2:jar:2.0.5
+    License: Similar to Apache License but with the acknowledgment clause removed  (https://raw.github.com/hunterhacker/jdom/master/LICENSE.txt)
+
+From: 'Jonathan Hedley' (http://jonathanhedley.com/)
+  - jsoup (http://jsoup.org/) org.jsoup:jsoup:jar:1.8.3
+    License: The MIT License  (http://jsoup.org/license)
+
+From: 'MINES Saint-Étienne' (http://www.mines-stetienne.fr/)
+  - SPARQL-Generate for all formats (https://ci.mines-stetienne.fr/sparql-generate-all/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-all:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for CSV (https://ci.mines-stetienne.fr/sparql-generate-csv/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-csv:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for GeoJSON (https://ci.mines-stetienne.fr/sparql-generate-geojson/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-geojson:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate over Apache Jena (https://w3id.org/sparql-generate/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-jena:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for JSON and CBOR (https://ci.mines-stetienne.fr/sparql-generate-json/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-json:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL function for generating HTML from Markdown (https://ci.mines-stetienne.fr/sparql-generate-markdown/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-markdown:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for MQTT (https://ci.mines-stetienne.fr/sparql-generate-mqtt/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-mqtt:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for SQL (https://ci.mines-stetienne.fr/sparql-generate-sql/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-sql:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for WebSocket (https://ci.mines-stetienne.fr/sparql-generate-ws/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-ws:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SPARQL-Generate for XML and HTML (https://ci.mines-stetienne.fr/sparql-generate-xml/) fr.mines-stetienne.ci.sparql-generate:sparql-generate-xml:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'MojoHaus' (http://www.mojohaus.org)
+  - Animal Sniffer Annotations (http://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations) org.codehaus.mojo:animal-sniffer-annotations:jar:1.18
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.0.4
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'Oracle Corporation' (http://www.oracle.com)
+  - MySQL Connector/J (http://dev.mysql.com/doc/connector-j/en/) mysql:mysql-connector-java:jar:8.0.20
+    License: The GNU General Public License, v2 with FOSS exception 
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - Old JAXB Core (http://jaxb.java.net/jaxb-bundles/jaxb-core) com.sun.xml.bind:jaxb-core:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - Old JAXB Runtime (http://jaxb.java.net/jaxb-bundles/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jaxb-api (https://github.com/javaee/jaxb-spec/jaxb-api) javax.xml.bind:jaxb-api:jar:2.3.0
+    License: CDDL 1.1  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)    License: GPL2 w/ CPE  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J LOG4J-12 Binding (http://www.slf4j.org) org.slf4j:slf4j-log4j12:jar:1.7.25
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J NOP Binding (http://www.slf4j.org) org.slf4j:slf4j-nop:jar:1.7.30
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Super CSV' (https://github.com/super-csv/super-csv)
+  - Super CSV Core (https://github.com/super-csv/super-csv/super-csv) net.sf.supercsv:super-csv:jar:2.4.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons CLI (http://commons.apache.org/proper/commons-cli/) commons-cli:commons-cli:jar:1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.5.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient Cache (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient-cache:jar:4.5.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.4.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.14
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (https://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.19
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons CSV (http://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.7
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.9
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Jena - ARQ (SPARQL 1.1 Query Engine) (https://jena.apache.org/jena-arq/) org.apache.jena:jena-arq:jar:3.13.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Jena - Base Common Environment (https://jena.apache.org/jena-base/) org.apache.jena:jena-base:jar:3.13.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Jena - Core (https://jena.apache.org/jena-core/) org.apache.jena:jena-core:jar:3.13.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Jena - IRI (https://jena.apache.org/jena-iri/) org.apache.jena:jena-iri:jar:3.13.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Jena - Shadowed external libraries (https://jena.apache.org/jena-shaded-guava/) org.apache.jena:jena-shaded-guava:jar:3.13.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Univocity Software Pty Ltd' (www.univocity.com)
+  - univocity-parsers (http://github.com/univocity/univocity-parsers) com.univocity:univocity-parsers:jar:2.8.4
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

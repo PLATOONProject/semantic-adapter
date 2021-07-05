@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-sparqlgenerate-nar/nifi-sparqlgenerate-nar.iml" filepath="$PROJECT_DIR$/nifi-sparqlgenerate-nar/nifi-sparqlgenerate-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-sparqlgenerate-processors/nifi-sparqlgenerate-processors.iml" filepath="$PROJECT_DIR$/nifi-sparqlgenerate-processors/nifi-sparqlgenerate-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semantic-adapter-processor.iml" filepath="$PROJECT_DIR$/semantic-adapter-processor.iml" />
+    </modules>
+  </component>
+</project>
