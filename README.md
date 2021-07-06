@@ -20,6 +20,8 @@ Semantic adapter processor;
 - Accepts `json` or `csv` or other formats as accepted data input
 - A `sparql generate` query with respect to data received in flowfile
 - Output format configuration - as of now three output formats are supported `JSON-LD`, `TURTLE` and `RDF/XML` in most cases under PLATOON context, `JSON-LD` will be used
+  
+![Alt text](resources/assets/config.png?raw=true "Title")
 
 ## How to Use
 
@@ -96,5 +98,10 @@ WHERE {
 
 and a directed data flow will be created that first splits JSON array to single data elements and then apply sparql-generate query on each to generate semantic data.
 
+![Alt text](resources/assets/flow.png?raw=true "Title")
 
+## Important Notes
 
+- Data flows are directed graph and its possible to use multiple semantic adapter processors in a single data flow depending on each aggregated or raw type data to be transformed
+- Scaling of semantic adaptation depends inherently on clustering capacity of apache nifi and hence is able to handle high velocity and volume of data as part of data flow
+- Even though semantic adapter based on nifi is suitable for most of the scenarios but for bulk data one time transformations, a separate `semantic adapter bactch` is being developed and can be extended and provided for use for interested partners
